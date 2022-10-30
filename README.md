@@ -37,6 +37,7 @@ To run this project:
 
 ## Project status
 Done with the development
+Click [here](https://makecode.microbit.org/_AdPhsuT8LaCw) to see the Microbit Makecode codes
 
 ## Sources
 * [Microbit counter tutorial](https://www.youtube.com/watch?v=qWcDuyYIUkk&t=153s)
