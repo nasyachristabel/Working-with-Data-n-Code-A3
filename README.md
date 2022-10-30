@@ -27,7 +27,7 @@ To run this project:
 * Attach both to a bag with the sensor facing inside the bag
 
 ## Illustrations
-! [Whole design](whole design.jpeg)
+![whole design](https://user-images.githubusercontent.com/81941776/198897902-c34896fd-857a-471f-a9e4-a223db617a11.jpeg)
 
 ## Features
 * Counts the bottles that have been picked up
