@@ -29,6 +29,7 @@ To run this project:
 ## Illustrations
 ![whole design](https://user-images.githubusercontent.com/81941776/198897902-c34896fd-857a-471f-a9e4-a223db617a11.jpeg)
 ![counter focus](https://user-images.githubusercontent.com/81941776/198897974-bf6ff394-7474-4ed7-a0e3-c3d36d581101.jpeg)
+![ultrasonic sensor](https://user-images.githubusercontent.com/81941776/198897983-b40b2d11-caaa-4d6c-b006-cb4e819a1310.jpeg)
 
 ## Features
 * Counts the bottles that have been picked up
